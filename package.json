@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "app to create team profile generator ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanyalcaide/team-profile-generator"
+  },
+  "author": "stephany alcaide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanyalcaide/team-profile-generator"
+  },
+  "homepage": "https://github.com/stephanyalcaide/team-profile-generator",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
